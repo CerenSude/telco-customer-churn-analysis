@@ -9,20 +9,13 @@ This project analyzes the Telco Customer Churn dataset, with the goal of underst
 ✅ Data loading & cleaning
 ✅ Identification of categorical & numerical features
 ✅ Exploratory Data Analysis (EDA)
-
-Distribution of churn vs non-churn customers
-
-Boxplots and histograms for numerical features
-
-Insights on service usage and churn relationship
-
 ✅ Data preprocessing (encoding, scaling, handling missing values)
 ✅ Model building (Logistic Regression, Random Forest, SVM, etc.)
 ✅ Model evaluation and comparison
 
-🔜 Next Step
+➡️ Next Step
 
-Feature importance analysis
+➡️ Analyze feature importance for Random Forest and Logistic Regression models to interpret which variables most strongly influence customer churn.
 
 🗂 Dataset
 
