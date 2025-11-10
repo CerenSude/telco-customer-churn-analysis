@@ -18,11 +18,11 @@ Boxplots and histograms for numerical features
 
 Insights on service usage and churn relationship
 
+✅ Data preprocessing (encoding, scaling, handling missing values)
+
+✅ Model building (Logistic Regression, Random Forest, SVM, etc.)
+
 🔜 Next Steps
-
-Data preprocessing (encoding, scaling, handling missing values)
-
-Model building (Logistic Regression, Random Forest, SVM, etc.)
 
 Model evaluation and comparison
 
