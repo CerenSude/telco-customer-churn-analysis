@@ -4,8 +4,6 @@ Telco Customer Churn Prediction (Work in Progress 🚧)
 
 This project analyzes the Telco Customer Churn dataset, with the goal of understanding customer behavior and building models to predict churn.
 
-At this stage, the focus is on Exploratory Data Analysis (EDA) to identify patterns, trends, and potential issues in the dataset. In the next steps, I will implement preprocessing, machine learning models, and evaluation.
-
 📂 Current Progress
 
 ✅ Data loading & cleaning
