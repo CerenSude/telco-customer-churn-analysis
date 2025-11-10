@@ -1,10 +1,10 @@
-Telco Customer Churn Prediction (Work in Progress 🚧)
+Telco Customer Churn Prediction
 
 📌 Project Overview
 
 This project analyzes the Telco Customer Churn dataset, with the goal of understanding customer behavior and building models to predict churn.
 
-## 📂 Current Progress
+## Steps
 
 ✅ **Data loading & cleaning**  
 ✅ **Identification of categorical & numerical features**  
@@ -12,12 +12,7 @@ This project analyzes the Telco Customer Churn dataset, with the goal of underst
 ✅ **Data preprocessing** (encoding, scaling, handling missing values)  
 ✅ **Model building** (Logistic Regression, Random Forest, SVM, etc.)  
 ✅ **Model evaluation and comparison**
-
----
-
-## ➡️ Next Step
-
-➡️ Analyze **feature importance** for **Random Forest** and **Logistic Regression** models to interpret which variables most strongly influence customer churn.
+✅ **Feature importance**
 
 🗂 Dataset
 
